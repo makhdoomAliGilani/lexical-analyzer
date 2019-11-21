@@ -1,24 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@makhdoomAliGilani 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-1
-00aqibjaved28/sc
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
-sc/lexical.txt
-@aqibjaved28 aqibjaved28 Add files via upload
-e958b87 9 minutes ago
-122 lines (108 sloc)  2.95 KB
-  
 import re
 
 def identifier(user):
@@ -141,15 +120,3 @@ while(x==1):
         x=1
     else:
         x=2
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
